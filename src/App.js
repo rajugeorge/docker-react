@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This has to be changed for once and for all.
+          This has to be changed for once and for all for taveis.
         </p>
         <a
           className="App-link"
